@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:busble/widgets/textColumn.dart';
+import '../../widgets/text_column.dart';
 
 class CommunityTextColumn extends StatelessWidget {
   const CommunityTextColumn({Key? key}) : super(key: key);

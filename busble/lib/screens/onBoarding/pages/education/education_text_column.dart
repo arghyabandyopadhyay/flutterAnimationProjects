@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:busble/widgets/textColumn.dart';
+import '../../widgets/text_column.dart';
 
 class EducationTextColumn extends StatelessWidget {
   const EducationTextColumn({Key? key}) : super(key: key);

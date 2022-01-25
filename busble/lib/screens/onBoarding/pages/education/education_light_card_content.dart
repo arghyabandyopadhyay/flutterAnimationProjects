@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:busble/widgets/iconContainer.dart';
+import '../../widgets/icon_container.dart';
 import 'package:busble/constants.dart';
 
-class EducationLightCardContainer extends StatelessWidget {
-  const EducationLightCardContainer({Key? key}) : super(key: key);
+class EducationLightCardContent extends StatelessWidget {
+  const EducationLightCardContent({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
     return Row(
